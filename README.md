@@ -1,1 +1,1 @@
-This reposoitory contains a library database projects.
+This repository contains a library database project.
